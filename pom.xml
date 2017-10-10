@@ -19,7 +19,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
- </distributionManagement>
+ <distributionManagement>
     
      <repository>
          <id>release</id>
@@ -31,7 +31,7 @@
            <id>snapshots</id>
            <name>Snapshots</name>
             <url>http://192.168.11.109:8081/repository/Snapshots/</url>
-       <snapshotRepository>
+       </snapshotRepository>
        
     </distributionManagement>
   
