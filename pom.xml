@@ -22,13 +22,13 @@
  </distributionManagement>
     
      <repository>
-         
+         <id>release</id>
           <name>Release</name>
           <url>http://192.168.11.109:8081/repository/Release/</url>
      </repository>
     
         <snapshotRepository>
-           
+           <id>snapshots</id>
            <name>Snapshots</name>
             <url>http://192.168.11.109:8081/repository/Snapshots/</url>
        <snapshotRepository>
