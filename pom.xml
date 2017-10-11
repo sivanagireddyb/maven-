@@ -23,14 +23,14 @@
     
      <repository>
          <id>release</id>
-          <name>Release</name>
-          <url>http://192.168.11.109:8081/repository/Release/</url>
+          <name>Releases</name>
+          <url>http://192.168.11.109:8081/nexus/content/repositories/releases/</url>
      </repository>
     
         <snapshotRepository>
            <id>snapshots</id>
            <name>Snapshots</name>
-            <url>http://192.168.11.109:8081/repository/Snapshots/</url>
+            <url>http://192.168.11.109:8081/nexus/content/repositories/snapshots/</url>
        </snapshotRepository>
        
     </distributionManagement>
